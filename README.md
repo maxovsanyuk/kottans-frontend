@@ -16,7 +16,7 @@
 
 - [x] 0. [Git Basics](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_0)
 - [x] 1. [Linux CLI and Networking](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_linux_cli)
-- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_collaboration)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_git_collaboration)
 
 ### Front-End Basics
 
