@@ -55,24 +55,7 @@
 
 
 
-<h2>
 
-```diff
-+ JS Basics+
-```
-</h2>
-
-### I've repeated Array.prototype.methods.It was very useful for me.
-
-![img](/task_js_basics/js1.png)
-
----------------------------------------------------------------------------------------
-
-![img](/task_js_basics/js2.png)
-
----------------------------------------------------------------------------------------
-
-<h2>
 
 ```diff
 +Document Object Model+
