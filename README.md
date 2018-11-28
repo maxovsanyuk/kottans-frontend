@@ -28,7 +28,7 @@
 
 - [ ]  7. [Building a Tiny JS World]()
 - [ ] 8. [Object-Oriented JavaScript]()
-- [ ] 9. [OOP exercise - ]()
+- [ ] 9. [OOP exercise ]()
 - [ ] 10. [Offline Web Applications]()
 - [ ] 11. [Memory pair game ]()
 - [ ] 12. [Website Performance Optimization]()
@@ -57,24 +57,3 @@
 
 
 
-```diff
-+Document Object Model+
-```
-</h2>
-
-### Done =(^.^)=
-
-![img](/task_js_dom/img/dom1.png)
-
----------------------------------------------------------------------------------------
-
-![img](/task_js_dom/img/dom2.png)
-
----------------------------------------------------------------------------------------
-
-[Demo:](https://maxovsanyuk.github.io/kottansDom/ "Dom")
-[Code:](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js_dom "Code")
-
-#### Reviewed and approved by @zonzujiro
-
----------------------------------------------------------------------------------------
