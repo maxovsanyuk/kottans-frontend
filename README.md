@@ -54,23 +54,6 @@
 
 
 
-<h2>
-
-```diff
-+ Responsive Web Design +
-```
-</h2>
-
-### Responsive Web Design Fundamentals – finished.
-
-![img](/task_responsive_web_design/Responsive.png)
-
----------------------------------------------------------------------------------------
-
-![img](/task_responsive_web_design/flexBox.png)
-
----------------------------------------------------------------------------------------
-
 
 <h2>
 
