@@ -1,12 +1,10 @@
 
- [![Kottans-Frontend][icon-kottans]][kottans-frontend]
-
  <img src="/task_0/gif/6013442.png" height="120px" width="120px" align="left"> 
 
 <h1 align="center">
 
 ```diff
-#=- Kottans Front-End Cours -=#
+#=+ Kottans Front-End Cours +=#
 ```
 </h1>
 
