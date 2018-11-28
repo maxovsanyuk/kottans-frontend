@@ -16,7 +16,7 @@
 
 - [x] 0. [Git Basics](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_0)
 - [x] 1. [Linux CLI and Networking](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_linux_cli)
-- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_git_collaboration)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_git_collaboration_
 
 ### Front-End Basics
 
@@ -51,45 +51,7 @@
 
 
 
-<h2>
 
-```diff
-+ Git Collaboration +
-```
-</h2>
-
-### New for me from passed materials:
-
-* I eventually got how to add forgotten files to commit (git commit --amend)
-* Realized the difference between git fetch git pull. 
-
- ![img](/task_git_collaboration/VC.png)
----------------------------------------------------------------------------------------
-
-![img](/task_git_collaboration/GC.png)
-
-<h2>
-
-```diff
-+ Intro to HTML CSS +
-```
-</h2>
-
-### I've repeated basic knowledge of HTML and CSS 
-
----------------------------------------------------------------------------------------
-
-![img](/task_html_css_intro/L1CSS.png)
-
----------------------------------------------------------------------------------------
-
-![img](/task_html_css_intro/HTML.png)
-
----------------------------------------------------------------------------------------
-
-![img](/task_html_css_intro/CSS.png)
-
----------------------------------------------------------------------------------------
 
 
 <h2>
