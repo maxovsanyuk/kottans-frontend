@@ -28,11 +28,11 @@
 
 - [ ]  7. [Building a Tiny JS World]()
 - [ ] 8. [Object-Oriented JavaScript]()
-- [ ] 9. OOP exercise - 
-- [ ] 10. Offline Web Applications
-- [ ] 11. Memory pair game 
-- [ ] 12. Website Performance Optimization
-- [ ] 13. Weather App 
+- [ ] 9. [OOP exercise - ]()
+- [ ] 10. [Offline Web Applications]()
+- [ ] 11. [Memory pair game ]()
+- [ ] 12. [Website Performance Optimization]()
+- [ ] 13. [Weather App]()
 
 
 
