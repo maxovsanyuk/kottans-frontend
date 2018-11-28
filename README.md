@@ -21,7 +21,7 @@
 ### Front-End Basics
 
 - [x] 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_html_css_intro)
-- [x] 4. [Responsive Web Design](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_responsive_web_design)
+- [x] 4. [Responsive Web Design](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_responsive_web_design)
 - [x] 5. [JavaScript Basics](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_basics)
 - [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @zonzujiro
 ### Advanced Topics
