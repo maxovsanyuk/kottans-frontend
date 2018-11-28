@@ -1,4 +1,6 @@
 
+ [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+ 
  <img src="/task_0/gif/6013442.png" height="120px" width="120px" align="left"> 
 
 <h1 align="center">
@@ -21,8 +23,7 @@
 - [x] 3. [Intro to HTML&nbsp;&amp;&nbsp;CSS](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_git_html_css_intro)
 - [x] 4. [Responsive Web Design](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_responsive_web_design)
 - [x] 5. [JavaScript Basics](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_basics)
-- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @OleksiyRudenko
-
+- [x] 6. [DOM](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js_dom) - Reviewed and approved by @zonzujiro
 ### Advanced Topics
 
 - [x]  7. [Building a Tiny JS World](https://github.com/KurosavaAkira/kottans-frontend/tree/master/task_js-pre-oop) - Reviewed and approved by @OleksiyRudenko
