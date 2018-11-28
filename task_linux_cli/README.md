@@ -16,4 +16,4 @@
 * Thanks to 'alias' command I'm able to create own keyboard shortcuts for a quicker work with iTerm.
 Very useful and convenient tool. 
 
-![img](/img/CL.png)
+![img](img/CL.png)
