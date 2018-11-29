@@ -27,7 +27,7 @@
 
 ### Advanced Topics
 
-- [x]  7. [Building a Tiny JS World](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js-pre-oop)
+- [x]  7. [Building a Tiny JS World](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js-pre-oop)Reviewed and approved by @OleksiyRudenko
 - [ ] 8. [Object-Oriented JavaScript]()
 - [ ] 9. [OOP exercise ]()
 - [ ] 10. [Offline Web Applications]()
