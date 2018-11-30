@@ -1,5 +1,6 @@
 
  [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+ [![Kottans-Student-Contribution-workflow](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20contribution%20workflow-6f42c1.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
 
  <img src="/task_0/gif/6013442.png" height="120px" width="120px" align="left"> 
 
