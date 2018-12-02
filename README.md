@@ -1,6 +1,5 @@
 
-[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/kottans/endorsements.md)
-
+[![Kottans-Student-Contribution-workflow](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20contribution%20workflow-6f42c1.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
  <img src="/task_0/gif/6013442.png" height="120px" width="120px" align="left"> 
 
 <h1 align="center">
