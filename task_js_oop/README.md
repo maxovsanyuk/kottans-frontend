@@ -17,6 +17,6 @@
 [Demo:](https://maxovsanyuk.github.io/frogger/)
 [Code:](https://github.com/maxovsanyuk/frontend-2019-homeworks/blob/js-frogger/submissions/maxovsanyuk/js-frogger/js/app.js)
 
-#### Reviewed and approved by @
+#### Reviewed and approved by 
 
 ---------------------------------------------------------------------------------------
