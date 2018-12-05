@@ -28,7 +28,7 @@
 ### Advanced Topics
 
 - [x]  7. [Building a Tiny JS World](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js-pre-oop)Reviewed and approved by @OleksiyRudenko
-- [ ] 8. [Object-Oriented JavaScript]()
+- [x] 8. [Object-Oriented JavaScript](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js-oop)
 - [ ] 9. [OOP exercise ]()
 - [ ] 10. [Offline Web Applications]()
 - [ ] 11. [Memory pair game ]()
