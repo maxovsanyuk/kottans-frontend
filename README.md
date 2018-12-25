@@ -38,6 +38,5 @@ Reviewed and approved by
 - [x] 10. [Offline Web Applications](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_Offline_Web_Applications)
 - [x] 11. [Memory pair game ](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_Memory%E2%80%93PairGame)
 Reviewed and approved by
-- [x] 12. [Website Performance Optimization]()
+- [x] 12. [Website Performance Optimization](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_Website-Performance-Optimization)
 - [ ] 13. [Weather App]()
-
