@@ -39,4 +39,4 @@ Reviewed and approved by @OleksiyRudenko
 - [x] 11. [Memory pair game ](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_Memory%E2%80%93PairGame)
 Reviewed and approved by @AMashoshyna 
 - [x] 12. [Website Performance Optimization](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_Website-Performance-Optimization)
-- [x] 13. [Weather App](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js_Friends-App) Reviewed and approved by
+- [x] 13. [Weather App](https://github.com/maxovsanyuk/kottans-frontend/tree/master/task_js_Friends-App) Reviewed and approved by @A-Ostrovnyy and @IgorKurkov 
